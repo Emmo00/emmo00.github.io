@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/emma_nwafor1" target="blank"><img src="https://img.shields.io/twitter/follow/emma_nwafor1?logo=twitter&style=for-the-badge" alt="emma_nwafor1" /></a> </p>
 
-- 🔭 I’m currently a student at [ALX Africa](https://www.alxafrica.com/)
+- 🔭 I’m currently an SWE student at [ALX Africa](https://www.alxafrica.com/)
 
 - 👯 I’m looking to collaborate on **Any Project**
 
