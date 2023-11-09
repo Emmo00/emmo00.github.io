@@ -11,7 +11,7 @@
 
 ## - ⚡ **Let's Go!!!**
 
-<h3 align="center">Connect with me:</h3>
+<h3>Connect with me:</h3>
 <p>
 <a href="https://twitter.com/emma_nwafor1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emma_nwafor1 Twitter page" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@emma_nwafor1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emma_nwafor1 Youtube Channel" height="30" width="40" /></a>
