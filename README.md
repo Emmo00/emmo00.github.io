@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Nwafor</h1>
-<h3 align="center">Learning Python/Flask and Javascript for Backend development and very passionate about the interesting world of computer programming</h3>
+<h3 align="center">Learning Python, PHP and Javascript/Typescript for Backend development and very passionate about the interesting world of computer programming</h3>
 
 <p align="left"> <a href="https://twitter.com/emma_nwafor1" target="blank"><img src="https://img.shields.io/twitter/follow/emma_nwafor1?logo=twitter&style=for-the-badge" alt="emma_nwafor1" /></a> </p>
 
-- 🔭 I’m currently an SWE student at [ALX Africa](https://www.alxafrica.com/)
+- 🔭 SWE graduate at [ALX Africa](https://www.alxafrica.com/) • C11
 
-- 💬 Ask me about **Javascript, C, Python**
+- 💬 Ask me about **Javascript, C, Python, PHP**
 
 - 📫 How to reach me **nwaforemmanuel005@gmail.com**
 
